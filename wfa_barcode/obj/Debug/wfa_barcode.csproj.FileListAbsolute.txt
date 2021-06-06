@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\bin\Debug\wfa_barcode.exe.config
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\bin\Debug\wfa_barcode.exe
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\bin\Debug\wfa_barcode.pdb
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\bin\Debug\IronBarCode.dll
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\bin\Debug\IronBarCode.xml
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\obj\Debug\wfa_barcode.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\obj\Debug\wfa_barcode.Form1.resources
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\obj\Debug\wfa_barcode.Properties.Resources.resources
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\obj\Debug\wfa_barcode.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\obj\Debug\wfa_barcode.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\obj\Debug\wfa_barcode.csproj.CopyComplete
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\obj\Debug\wfa_barcode.exe
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\obj\Debug\wfa_barcode.pdb
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\bin\Debug\itextsharp.dll
+C:\Users\Admin\source\repos\sln_barcode\wfa_barcode\bin\Debug\itextsharp.xml

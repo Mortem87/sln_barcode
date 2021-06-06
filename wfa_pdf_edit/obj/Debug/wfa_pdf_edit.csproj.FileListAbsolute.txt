@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\bin\Debug\wfa_pdf_edit.exe.config
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\bin\Debug\wfa_pdf_edit.exe
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\bin\Debug\wfa_pdf_edit.pdb
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\bin\Debug\itextsharp.dll
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\bin\Debug\itextsharp.xml
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\obj\Debug\wfa_pdf_edit.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\obj\Debug\wfa_pdf_edit.Form1.resources
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\obj\Debug\wfa_pdf_edit.Properties.Resources.resources
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\obj\Debug\wfa_pdf_edit.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\obj\Debug\wfa_pdf_edit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\obj\Debug\wfa_pdf_edit.csproj.CopyComplete
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\obj\Debug\wfa_pdf_edit.exe
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\obj\Debug\wfa_pdf_edit.pdb
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\bin\Debug\IronBarCode.dll
+C:\Users\Admin\source\repos\sln_barcode\wfa_pdf_edit\bin\Debug\IronBarCode.xml
